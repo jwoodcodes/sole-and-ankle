@@ -29,7 +29,7 @@ _Note that we're only focusing on the design._ The links and inputs don't do any
 
 ## Troubleshooting
 
-If you run into problems running a local development server, check out our [Troubleshooting Guide](https://courses.joshwcomeau.com/troubleshooting) on the course platform.
+<!-- If you run into problems running a local development server, check out our [Troubleshooting Guide](=-) on the course platform. -->
 
 This guide addresses the common `Digital Envelope Routine` error you may have seen.
 
